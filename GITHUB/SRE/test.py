@@ -10,8 +10,8 @@ while(1):
 	ret, frame = cap.read()
 
 	fgmask = fgbg.apply(frame)
-
-	print "frame"
+	#fgmask = rd.rowdowndate(frame,5)
+	print frame
 
 	# end & show
 	cv2.imshow('frame',fgmask)
