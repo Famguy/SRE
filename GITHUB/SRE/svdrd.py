@@ -17,3 +17,5 @@ def rowdowndate(U, S, V, k, q):
 	V1 = np.dot(V,Z[:,1:k])
 	return U1, S1, V1
 
+
+
