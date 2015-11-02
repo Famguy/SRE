@@ -1,0 +1,23 @@
+Reading book reviews to find out what the book is about?
+
+API to be used: 
+http://www.goodreads.com/api
+http://www.goodreads.com/api/documentation
+
+How to use the API using Python?
+Wrapper: https://github.com/sefakilic/goodreads
+Manual:
+https://gist.github.com/gpiancastelli/537923
+https://www.snip2code.com/Snippet/7961/A-Python-example-of-how-to-use-OAuth-on-
+
+
+Prediction part: LDA + Gensim
+http://www.vladsandulescu.com/topic-prediction-lda-user-reviews/
+https://github.com/vladsandulescu/topics
+Based on the paper: http://www.yelp.com/html/pdf/YelpDatasetChallengeWinner_ImprovingRestaurants.pdf
+
+
+
+
+
+
