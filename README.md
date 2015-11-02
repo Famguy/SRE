@@ -1,1 +1,9 @@
-# myhdl-samples
+# Semester long SRE
+
+
+https://dato.com/products/create/docs/index.html
+http://pythonhosted.org//lda/
+http://topik.readthedocs.org/en/latest/
+https://github.com/columbia-applied-data-science/rosetta
+https://pypi.python.org/pypi/sparsesvd/
+
