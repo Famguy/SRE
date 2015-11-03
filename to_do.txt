@@ -17,6 +17,9 @@ https://github.com/vladsandulescu/topics
 Based on the paper: http://www.yelp.com/html/pdf/YelpDatasetChallengeWinner_ImprovingRestaurants.pdf
 
 
+Goodreads developer keys
+key: 6KLeSpdJh07FdIx48QkyNg
+secret: 7FrusdYkPsRmkXG9oPLyk3fGTC8Zy7yBJjOTwy9iwZY
 
 
 
