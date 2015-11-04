@@ -1,5 +1,7 @@
 # Semester long SRE
 
+stuff collected: NCERT DATA
+
 
 https://dato.com/products/create/docs/index.html
 http://pythonhosted.org//lda/
