@@ -3,6 +3,8 @@
 stuff collected: NCERT DATA
 
 
+to do
+
 https://dato.com/products/create/docs/index.html
 http://pythonhosted.org//lda/
 http://topik.readthedocs.org/en/latest/
